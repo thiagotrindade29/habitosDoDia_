@@ -1,0 +1,17 @@
+.header {
+  margin-bottom: 16px;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #6b0404;
+  box-shadow: 0 2px 4px rgba(100, 117, 122, 0.1);
+  color: rgb(233, 233, 233);
+}
+
+.header h1 {
+  font-size: 24px;
+}
+
+.header p {
+  font-size: 14px;
+  margin-top: 4px;
+}
